@@ -13,6 +13,11 @@ Port Configuration
 |Netflix Zuul Gateway Server|	8765|
 |Zipkin Distributed Tracing server|	9411|
 
+Endpoints to be exposed:
 
+|Service Name|URLs|
+|------------|-----|
+|limits-service|https://localhost:8080/limits|
+|||
 
 
